@@ -1,6 +1,7 @@
 {
-  "status": "offline",
-  "host": "",
-  "port": 0,
-  "updated": "2026-11-26T08:26:42Z"
+  "status": "online",
+  "host": "70701e963d3b.pr.edgegap.net",
+  "port": 30089,
+  "updated": "2026-11-26T08:30:42Z",
+  "expires": "2026-11-27T08:28:42Z"
 }
